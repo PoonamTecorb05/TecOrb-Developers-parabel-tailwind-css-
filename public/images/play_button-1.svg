@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="91" viewBox="0 0 90 91">
+  <g id="play_button" transform="translate(-906 -21563)">
+    <g id="Group_10156" data-name="Group 10156" transform="translate(3 259)">
+      <ellipse id="Ellipse_1087" data-name="Ellipse 1087" cx="45" cy="45.5" rx="45" ry="45.5" transform="translate(903 21304)" fill="#7e00f6" opacity="0.27"/>
+      <path id="play-button_3_" data-name="play-button (3)" d="M51.686,18.625,19.04.262A2.04,2.04,0,0,0,16,2.041V38.767a2.041,2.041,0,0,0,3.04,1.779L51.686,22.183a2.041,2.041,0,0,0,0-3.558Z" transform="translate(916.96 21329.436)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

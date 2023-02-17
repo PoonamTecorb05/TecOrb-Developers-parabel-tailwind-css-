@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="57" height="58" viewBox="0 0 57 58">
+  <g id="playstore" transform="translate(-1296 -14345)">
+    <ellipse id="Ellipse_1055" data-name="Ellipse 1055" cx="28.5" cy="29" rx="28.5" ry="29" transform="translate(1296 14345)" fill="#1e212b"/>
+    <g id="android_7_" data-name="android (7)" transform="translate(1314.124 14358.036)">
+      <g id="Group_2313" data-name="Group 2313" transform="translate(0)">
+        <g id="Group_2312" data-name="Group 2312" transform="translate(0)">
+          <path id="Path_4994" data-name="Path 4994" d="M96.7,4.235l3.041-3.041L98.542,0,95.2,3.338a9.79,9.79,0,0,0-8.963,0L82.9,0,81.709,1.195,84.75,4.235a10.083,10.083,0,0,0-4.163,8.152v1.448h20.272V12.388A10.083,10.083,0,0,0,96.7,4.235Zm-10.317,6.7a1.448,1.448,0,1,1,1.448-1.448A1.448,1.448,0,0,1,86.379,10.94Zm8.688,0a1.448,1.448,0,1,1,1.448-1.448A1.448,1.448,0,0,1,95.067,10.94Z" transform="translate(-80.587)" fill="#fff"/>
+          <path id="Path_4995" data-name="Path 4995" d="M80.587,230.966a10.136,10.136,0,1,0,20.272,0v-5.792H80.587Z" transform="translate(-80.587 -209.89)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

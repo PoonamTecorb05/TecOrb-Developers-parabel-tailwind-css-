@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29.612" height="26.502" viewBox="0 0 29.612 26.502">
+  <g id="speakers" transform="translate(0.25 0.277)">
+    <g id="Group_2408" data-name="Group 2408" transform="translate(0 0)">
+      <g id="Group_2407" data-name="Group 2407" transform="translate(0 0)">
+        <path id="Path_5060" data-name="Path 5060" d="M20.585,67.321a2.19,2.19,0,0,0-2.253.109L8.9,73.717H5.327a1.754,1.754,0,0,0-1.746,1.606h-.5A3.08,3.08,0,0,0,0,78.4v3.3a3.08,3.08,0,0,0,3.077,3.077h.5a1.755,1.755,0,0,0,1.746,1.606H8.9l9.43,6.287a2.194,2.194,0,0,0,3.411-1.826V69.256A2.19,2.19,0,0,0,20.585,67.321ZM3.574,83.032h-.5A1.337,1.337,0,0,1,1.741,81.7V78.4a1.337,1.337,0,0,1,1.336-1.336h.5ZM8.3,84.638H5.327a.012.012,0,0,1-.012-.012V75.47a.012.012,0,0,1,.012-.012H8.3ZM20,90.841a.453.453,0,0,1-.7.377l-9.262-6.175V75.054L19.3,68.879a.453.453,0,0,1,.7.377Z" transform="translate(0 -67.061)" fill="#fff" stroke="#fff" stroke-width="0.5"/>
+      </g>
+    </g>
+    <g id="Group_2412" data-name="Group 2412" transform="translate(24.99 6.026)">
+      <g id="Group_2411" data-name="Group 2411" transform="translate(0 0)">
+        <path id="Path_5062" data-name="Path 5062" d="M364.889,154.957a.783.783,0,1,0-1.108,1.108,7.963,7.963,0,0,1,0,11.248.784.784,0,0,0,1.108,1.108,9.53,9.53,0,0,0,0-13.464Z" transform="translate(-363.551 -154.727)" fill="#fff" stroke="#fff" stroke-width="0.5"/>
+      </g>
+    </g>
+  </g>
+</svg>
